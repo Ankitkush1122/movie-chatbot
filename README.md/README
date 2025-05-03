@@ -1,0 +1,72 @@
+# 🎬 InsideMoviz - AI Movie Chatbot with TMDB API
+
+InsideMoviz एक स्मार्ट वेब एप्लिकेशन है जिसमें:
+- ✅ Real-time Movie Data आता है TMDB API से
+- 🤖 एक Simple Chatbot है जो Movie Recommend करता है
+- 🧠 User Input समझकर movie suggest करता है
+
+---
+
+## 🔧 Features
+
+- Fetches real movie data using **TMDB API**
+- AI-powered basic chatbot for recommending movies
+- Users can interact via a clean chat interface
+- Toggle chatbot open/close
+- Uses modern HTML, CSS, JavaScript (No frameworks)
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone or download this repo
+2. Open `index.html` in your browser
+3. Make sure internet is on (to access API)
+
+---
+
+## 🌐 Technologies Used
+
+- HTML
+- CSS
+- JavaScript (Vanilla)
+- TMDB API
+
+---
+
+## 📦 API Used
+
+**The Movie Database (TMDB) API**  
+URL: [https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)
+
+---
+
+## 💡 Future Improvements
+
+- Smarter AI with NLP (ChatGPT integration)
+- Filter by genre/year
+- Better UI/UX
+- Dark mode
+
+---
+
+## 📸 Screenshot
+
+*(Add your screenshot here if needed)*
+
+---
+
+## 🔗 Live Demo
+
+*(Add GitHub Pages or hosting link after deployment)*
+
+---
+
+## 📩 Contact
+
+**Developer:** Ankit-Thakur 
+GitHub: [https://github.com/Ankitkush1122]  
+Email: your-pdead7145@gmail.com
+
+---
+
